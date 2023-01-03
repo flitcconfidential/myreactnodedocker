@@ -2,7 +2,6 @@
 
 # This UNTIL Step "Testing the Dockerized Node Application Image" in document link
 # https://semaphoreci.com/community/tutorials/dockerizing-a-node-js-web-application
-
 #FROM node:16.15-alpine3.14
 #RUN mkdir -p /opt/app
 #WORKDIR /opt/app
